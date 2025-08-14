@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lilbaza360/static/css/main.53fea812.css",
+    "main.js": "/lilbaza360/static/js/main.0ea5cd9c.js",
+    "index.html": "/lilbaza360/index.html",
+    "main.53fea812.css.map": "/lilbaza360/static/css/main.53fea812.css.map",
+    "main.0ea5cd9c.js.map": "/lilbaza360/static/js/main.0ea5cd9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53fea812.css",
+    "static/js/main.0ea5cd9c.js"
+  ]
+}
