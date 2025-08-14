@@ -368,3 +368,6 @@
     grid-template-columns: 1fr;
   }
 }
+.dashboard-header {display:flex;justify-content:space-between;align-items:center;margin-bottom:2rem;}
+.logout-btn {display:flex;align-items:center;gap:0.5rem;padding:0.5rem 1rem;background:rgba(239,68,68,0.1);border:1px solid #EF4444;border-radius:8px;color:#EF4444;cursor:pointer;transition:all 0.2s;}
+.logout-btn:hover {background:rgba(239,68,68,0.2);transform:translateY(-2px);}
